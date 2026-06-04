@@ -12,12 +12,7 @@ I'm an **Electrical and Computer Engineering student** and **Full-Stack Software
 ### 🏆 Featured Software Engineering
 *   **[CodeDash](https://code-activity-dashboard-lxiy.vercel.app)**: A real-time developer analytics platform with a custom VS Code extension, WebSockets, and a React dashboard.
 *   **IntelliLogic**: A native desktop digital logic circuit simulator built in JavaFX, bridging my ECE background with software engineering via a high-frequency simulation engine.
-  
-### 🔬 Machine Learning & Signal Processing
-*   **Induction Motor Fault Detection**: 
-  Dual-model fault classifier using FFT signal 
-  processing + Random Forest + 1D CNN on motor 
-  current waveforms. 
+*   **[Induction Motor Fault Detector](https://github.com/SelahNs/induction-motor-fault-detection)**: Detects faults in induction machines by applying FFT to motor current signals, extracting harmonic amplitudes, and classifying with Random Forest + 1D CNN. 
 
 ### 🔬 Academic & Hardware Engineering
 *   **Computer Architecture**: Designed a functional **4-Bit ALU** (Arithmetic Logic Unit) and an upcoming **8-Bit Multiplier** from scratch using Logisim-Evolution.
