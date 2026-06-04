@@ -15,7 +15,7 @@ I'm an **Electrical and Computer Engineering student** and **Full-Stack Software
 *   **[Induction Motor Fault Detector](https://github.com/SelahNs/induction-motor-fault-detection)**: Detects faults in induction machines by applying FFT to motor current signals, extracting harmonic amplitudes, and classifying with Random Forest + 1D CNN. 
 
 ### 🔬 Academic & Hardware Engineering
-*   **Computer Architecture**: Designed a functional **4-Bit ALU** (Arithmetic Logic Unit) and an upcoming **8-Bit Multiplier** from scratch using Logisim-Evolution.
+*   **Computer Architecture**: Designed a functional **4-Bit ALU** (Arithmetic Logic Unit) and an **8-Bit Multiplier** from scratch using Logisim-Evolution and verilog.
 *   **Computational Methods**: Solved complex engineering mathematics and numerical analysis problems using MATLAB/Octave algorithms.
 
 ### 🛠️ Tech Stack
